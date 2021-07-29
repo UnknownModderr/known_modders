@@ -1,5 +1,3 @@
-## Outdated - last update: 4 months ago
-
 SOCIALCLUB NAME | ROCKSTAR ID | TITLES ACTIVE IN | NOTES | Menu
 ------------ | ------------- | ------------- | ------------- | ------------- 
 craNe_ph     | 130098219     | GTA Online     | Freeze     | 
@@ -53,4 +51,4 @@ Modder | 194450011 | GTA Online | | Gravity
 Hodgeneww93 | 1111111111(?) | GTA Online | SCID Spoof |
 DannyliuxA | 194080532 | GTA Online | Crashing | Cherax
 HeadShot_Proto | 191966698 | GTA Online | Crashing | Cherax
-Syndicate (Not real name) | GTA Online | Altered Host Token | Ozark
+Syndicate (Not real name) | | GTA Online | Altered Host Token | Ozark
